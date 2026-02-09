@@ -1,3 +1,12 @@
+# week04/lab04.py
+
+def main():
+    print("Week 04 Lab")
+
+if __name__ == "__main__":
+    main()
+
+
 def find_common_elements(list1, list2):
     """Find the common elements between two lists.
 
